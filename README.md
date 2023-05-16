@@ -2,7 +2,7 @@
 
 > A markdown previewer, made for one of the projects in the Front End Development Libraries freeCodeCamp course
 
-### ✨ [Demo](https://codepen.io/musaab03/pen/NWOaMYK)
+### ✨ [Visit Live Site](https://codepen.io/musaab03/pen/NWOaMYK)
 
 ![image](https://user-images.githubusercontent.com/103457332/235787867-55db40ef-20e8-423a-8c38-64606909fdf2.png)
 
